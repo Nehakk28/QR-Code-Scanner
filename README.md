@@ -19,16 +19,6 @@ This project uses your webcam to scan QR codes in real-time and saves the scanne
 
 ## Project Structure
 
-QR-Code-Scanner/
-│
-├── Model/
-│   ├── qrcodereader_opencv.py
-│   └── scanned_result.txt
-│
-├── LICENSE
-├── README.md
-└── .gitignore
-
 <pre> QR-Barcode-Scanner/ ├── Model/ │ ├── qrcodereader_opencv.py │ └── scanned_result.txt ├── LICENSE ├── README.md └── .gitignore </pre>
 
 ## Installation
