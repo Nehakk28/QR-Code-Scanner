@@ -29,6 +29,8 @@ QR-Code-Scanner/
 ├── README.md
 └── .gitignore
 
+<pre> QR-Barcode-Scanner/ ├── Model/ │ ├── qrcodereader_opencv.py │ └── scanned_result.txt ├── LICENSE ├── README.md └── .gitignore </pre>
+
 ## Installation
 
 1. Clone the repository:
